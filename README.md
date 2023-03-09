@@ -1,2 +1,2 @@
-# DataBase_Homework_1
+# DataBase_Homework
 DB_HW_1
